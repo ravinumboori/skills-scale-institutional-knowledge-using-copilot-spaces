@@ -14,6 +14,8 @@ After each sprint, release, or important milestone. Also after incidents.
 
 ## Running a Retrospective
 - Timebox: 45–75 minutes depending on team size
+- Include all core team members: PM, Product Owner, Developers, QA Lead, UX Designer
+- Optionally invite Stakeholder Representatives for milestone retrospectives
 - Use an anonymous idea board if needed to encourage candor
 - Prioritize 2–3 top action items to avoid overload
 

@@ -21,8 +21,10 @@ Maintain a simple table with:
 
 ## Stakeholder Communication
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
+- Assign Stakeholder Representatives for each major stakeholder group
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- Involve Product Owner in customer-facing communications
 
 ## Communication Templates
 Weekly Status Template:
@@ -38,5 +40,6 @@ Incident Communication
 - Post-incident blameless retrospective scheduled
 
 ## Escalation Paths
-- Team-level -> PM -> Product Lead -> Sponsor
+- Team-level -> PM -> Product Owner -> Product Lead -> Stakeholder Representative -> Sponsor
 - For security incidents, follow the security incident runbook and notify Security on-call
+- For user experience concerns, escalate through UX Designer to Product Owner
