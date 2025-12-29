@@ -116,7 +116,7 @@ This document provides a RACI (Responsible, Accountable, Consulted, Informed) ma
 1. **Reference before starting activities**: Check who should be involved and how
 2. **Clarify early**: If roles are unclear, discuss and document decisions
 3. **Adapt as needed**: Not every project needs every role; scale to project size
-4. **Avoid too many As**: Each activity should have only one Accountable person
+4. **One Accountable per activity**: Each activity should have only one Accountable person (the "A" or "A/R")
 5. **Don't overcommunicate**: Too many Cs and Is can slow down work
 
 ### Common Patterns
@@ -126,6 +126,11 @@ This document provides a RACI (Responsible, Accountable, Consulted, Informed) ma
 - **UX Designer** is typically Accountable for design and usability
 - **Developers** are typically Accountable for implementation quality
 - **Stakeholder Representative** is typically Accountable for business acceptance
+
+### Understanding A/R (Accountable and Responsible)
+- **A/R notation** indicates the same person is both Accountable (has final authority) and Responsible (does the work)
+- This is common and acceptable in small teams or when a role owns the entire activity
+- In larger teams, you may split these: one person is Accountable (makes decisions) while others are Responsible (execute the work)
 
 ### When Conflicts Arise
 - If multiple people believe they are Accountable for the same activity, escalate to Product Manager or sponsor
