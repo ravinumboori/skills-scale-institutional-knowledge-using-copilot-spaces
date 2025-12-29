@@ -20,3 +20,4 @@ OctoAcme's project lifecycle begins with **Initiation** and **Planning**, where 
 - [Release & Deployment Guide](octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](octoacme-roles-and-personas.md)
+- [RACI Quick Reference](octoacme-roles-raci-quick-reference.md) - Accountability matrix for key activities
